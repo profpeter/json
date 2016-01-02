@@ -1,0 +1,22 @@
+{
+  "valueNameHeader": "Captains",
+  "valueHeader": "Kills",
+  "data": [
+    {
+      "name": "Jean-Luc Picard",
+      "value": 1450
+    },
+    {
+      "name": "James Kirk",
+      "value": 350
+    },
+    {
+      "name": "Alexander Peter",
+      "value": 1850
+    },
+    {
+      "name": "Stephen Few",
+      "value": 1250
+    }
+  ]
+}
